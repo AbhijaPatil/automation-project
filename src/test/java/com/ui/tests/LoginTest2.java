@@ -10,11 +10,11 @@ public class LoginTest2 {
 
 	public static void main(String[] args) {
 		
-		WebDriver wd = new ChromeDriver(); //Launch a browser window !!
-		HomePage homePage = new HomePage(wd);
-		homePage.goToLoginPage();
-		LoginPage loginPage = homePage.goToLoginPage();
-		loginPage.doLoginWith("kolov59119@hazhab.com", "Password");
+//		WebDriver wd = new ChromeDriver(); //Launch a browser window !!
+//		HomePage homePage = new HomePage(wd);
+//		homePage.goToLoginPage();
+//		LoginPage loginPage = homePage.goToLoginPage();
+//		loginPage.doLoginWith("kolov59119@hazhab.com", "Password");
 		
 		
 		

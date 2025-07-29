@@ -32,7 +32,7 @@ public abstract class BrowserUtility {
 		
 		else if(browserName.equalsIgnoreCase("edge"))
 		{
-			driver = new ChromeDriver();
+			driver = new EdgeDriver();
 		}
 		
 		else
